@@ -26,7 +26,7 @@ SELECT p.name, a.date, d.department_name
 FROM appointments a
 JOIN patients p ON a.patient_id = p.patient_id
 JOIN departments d ON a.department_id = d.department_id;
-
+```
 ## What Could Be Improved
 - **Add stored procedures and triggers** to automate workflows (e.g., updating billing totals when a prescription is added).
 - **Implement role-based views** (admin, doctor, billing officer) for more realistic, secure database access control.
