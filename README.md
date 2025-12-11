@@ -14,7 +14,7 @@ The goal is to support real-world hospital operations such as scheduling, tracki
 ## Files Included
 - `hospital_mgmt.sql` – database schema and table definitions  
 - `sampleData.sql` – sample inserts for testing  
-- Screenshots (optional)
+- ERD 
 
 ## Tech Stack
 - **SQL**
